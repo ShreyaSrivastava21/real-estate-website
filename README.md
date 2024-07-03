@@ -3,8 +3,6 @@
 
 ---
 
-# real-estate-website
-
 ## Project Overview
 
 Homiyz is a modern real estate platform built using the MERN stack. It offers users the ability to browse, list, and manage property listings with an integrated authentication system. The project incorporates user authentication  and Google authentication using Firebase.
@@ -78,9 +76,9 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/rishabhgupta2004/HOMEHEAVEN.git
-   cd homeheaven
-   git clone https://github.com/Deepanshishukla24/HOMEHEAVEN.git
+   git clone https://github.com/Developersparsh/.git
+   cd homify
+   git clone https://github.com/Deepanshishukla24/.git
    ```
 
 2. Install the dependencies for both the client and server:
