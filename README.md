@@ -76,9 +76,9 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Developersparsh/.git
+   git clone https://github.com/Developersparsh/real-estate-website.git
    cd homify
-   git clone https://github.com/Deepanshishukla24/.git
+   git clone https://github.com/ShreyaSrivastava21/real-estate-website.git
    ```
 
 2. Install the dependencies for both the client and server:
